@@ -1,5 +1,5 @@
 AI-Chat-Assistant
-Edit in StackBlitz next generation editor ⚡️
+
 
 AI-Chat-Assistant is a project developed using TypeScript, JavaScript, HTML, and
 
